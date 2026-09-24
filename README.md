@@ -15,15 +15,12 @@
 <!-- ABOUT ME & CONNECT -->
 <div align="center">
 
-### 👨‍💻 About Me
+### 👨‍💻 Connect With Me
 
-Passionate developer focused on building modern applications, clean architecture, and continuous learning.
-
-<!-- SOCIAL BADGES (Replace YOUR_USERNAMES with actual links) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=About.me&logoColor=white)](https://erioluwaadeniyi.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erioluwa-adeniyi-97bb34404/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=firefox&logoColor=white)](https://erioluwa-adeniyi.netlify.app/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/forrest_001)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erioluwaadeniyi06@gmail.com)
 
 </div>
 
