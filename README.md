@@ -71,14 +71,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
-<!-- CONTRIBUTION GRAPH -->
-## 📈 Contribution History
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/erioluwaadeniyi/erioluwaadeniyi/output/activity-graph.svg" width="100%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6A0DAD&height=3" width="100%"/>
 
 <!-- FOOTER -->
 <div align="center">
